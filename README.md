@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-mirji&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-mirji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh-mirji" alt="rakesh-mirji" /></a> </p>
-- 👨‍💻 All of my projects are available here [https://rakeshmirji.vercel.app/](https://rakeshmirji.vercel.app/)
+- 👨‍💻 All of my projects are available here (https://rakeshmirji.vercel.app)
 
 - 📝 Find all my articles on medium [https://medium.com/@rakeshmirji](https://medium.com/@rakeshmirji)
 
